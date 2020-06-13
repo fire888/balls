@@ -13,6 +13,7 @@ About
 
 Start
 ------------
+console in new folder project
 ```javascript
 git init
 git remote add origin https://github.com/fire888/balls.git
