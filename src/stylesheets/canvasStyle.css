@@ -1,0 +1,21 @@
+body {
+    height: 500vh;
+}
+
+#textCanvas {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+#helperSlider {
+    position: fixed;
+    bottom: 3px;
+    left:50px;
+    z-index: 60;
+}
+
+#myRange {
+    height: 20px;
+    width: 70vw;
+}
